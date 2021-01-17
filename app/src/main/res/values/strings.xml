@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="user_not_found_or_account_does_not_exist">User Not Found or Account Does not Exist</string>
+    <string name="search_here">Search...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
